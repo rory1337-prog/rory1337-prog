@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Rostyslav 👋
 
-<!--
-**rory1337-prog/rory1337-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Automation Engineer focused on building automation systems, AI-powered tools, and workflow solutions.
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- OpenAI API
+- Telegram Bot API
+- SQLite
+- REST API
+- n8n
+- Make (Integromat)
+
+## Projects
+
+### ExpensesAI — AI Expense Tracker
+AI-powered Telegram bot for expense tracking, analytics, and receipt parsing using OpenAI API and SQLite.
+
+### Crypto Telegram Reporter
+Automated crypto reporting system that fetches market data via API, analyzes changes, and delivers reports to Telegram.
+
+## Current Focus
+
+- AI Automation
+- Backend Automation Systems
+- API Integrations
+- Python Development
+- Workflow Automation
+
+## Goals
+
+- Build scalable AI automation systems
+- Improve software engineering skills
+- Transition into full-time AI/Python engineering
+
+## GitHub Stats
+
+Coming soon 🚀
