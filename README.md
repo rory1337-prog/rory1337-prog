@@ -4,29 +4,48 @@ AI Automation Engineer and Python Developer building AI-powered applications, wo
 
 ## Tech Stack
 
+### Languages
 - Python
 - TypeScript
+- JavaScript
+- HTML/CSS
+- SQL
+
+### Backend & APIs
+- REST APIs
+- OpenAI API
+- Telegram Bot API
+
+### Frontend
 - React
+- TypeScript
+
+### Databases
 - PostgreSQL
 - SQLite
-- OpenAI API
-- REST APIs
+
+### DevOps & Tools
 - Docker
+- Git
 - GitHub Actions
+- Linux
+- VPS Deployment
+
+### Automation
 - n8n
 - Make
 
 ## Featured Projects
 
-### ExpensesAI — AI Expense Tracker
+🔹 **[ExpensesAI](https://github.com/rory1337-prog/expense-ai-tg-bot)** 
 
 AI-powered Telegram bot with receipt OCR, analytics, multilingual support, Docker deployment, and OpenAI-powered financial insights.
 
-### YouTube Channel Analytics
+🔹 **[YouTube Channel Analytics](https://github.com/rory1337-prog/youtube-channel-analytics)**
 
 Dashboard for YouTube channel analytics with Google OAuth integration, YouTube Data API, charts, video metrics, and channel performance tracking.
 
-### Crypto Telegram Reporter
+🔹 **[Crypto Telegram Reporter](https://github.com/rory1337-prog/crypto-telegram-reporter)**
 
 Automated crypto reporting system that fetches market data, generates summaries, and delivers reports to Telegram.
 
