@@ -37,6 +37,6 @@ Automated crypto reporting system that fetches market data via API, analyzes cha
 ## GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rory1337-prog&show_icons=true&theme=github_dark" />
-  <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rory1337-prog&layout=compact&theme=github_dark" />
+  <img width="54%" src="https://github-readme-stats.vercel.app/api?username=rory1337-prog&show_icons=true&theme=github_dark" />
+  <img width="41%" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rory1337-prog&layout=compact&theme=github_dark" />
 </p>
