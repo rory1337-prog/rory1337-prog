@@ -1,38 +1,48 @@
 # Hi, I'm Rostyslav 👋
 
-AI Automation Engineer focused on building automation systems, AI-powered tools, and workflow solutions.
+AI Automation Engineer and Python Developer building AI-powered applications, workflow automations, and backend systems.
 
 ## Tech Stack
 
 - Python
-- OpenAI API
-- Telegram Bot API
+- TypeScript
+- React
+- PostgreSQL
 - SQLite
-- REST API
+- OpenAI API
+- REST APIs
+- Docker
+- GitHub Actions
 - n8n
-- Make (Integromat)
+- Make
 
-## Projects
+## Featured Projects
 
 ### ExpensesAI — AI Expense Tracker
-AI-powered Telegram bot for expense tracking, analytics, and receipt parsing using OpenAI API and SQLite.
+
+AI-powered Telegram bot with receipt OCR, analytics, multilingual support, Docker deployment, and OpenAI-powered financial insights.
+
+### YouTube Channel Analytics
+
+Dashboard for YouTube channel analytics with Google OAuth integration, YouTube Data API, charts, video metrics, and channel performance tracking.
 
 ### Crypto Telegram Reporter
-Automated crypto reporting system that fetches market data via API, analyzes changes, and delivers reports to Telegram.
+
+Automated crypto reporting system that fetches market data, generates summaries, and delivers reports to Telegram.
 
 ## Current Focus
 
-- AI Automation
-- Backend Automation Systems
-- API Integrations
-- Python Development
+- AI Automation Engineering
+- Backend Development (Python)
+- AI Integrations & LLM Applications
 - Workflow Automation
+- Scalable Software Systems
 
 ## Goals
 
-- Build scalable AI automation systems
-- Improve software engineering skills
-- Transition into full-time AI/Python engineering
+- Build production-grade AI products
+- Grow expertise in software engineering
+- Transition into a full-time AI/Python Engineering role
 
 ## GitHub Stats
 
