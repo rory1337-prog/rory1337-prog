@@ -1,67 +1,130 @@
 # Hi, I'm Rostyslav 👋
 
-AI Automation Engineer and Python Developer building AI-powered applications, workflow automations, and backend systems.
+Software Developer focused on Backend Engineering, AI Automation, and modern software systems.
+
+I build AI-powered applications, backend APIs, workflow automation solutions, and production-ready software using Python, FastAPI, Docker, and OpenAI.
+
+---
 
 ## Tech Stack
 
 ### Languages
+
 - Python
 - TypeScript
 - JavaScript
-- HTML/CSS
 - SQL
 
-### Backend & APIs
+### Backend
+
+- FastAPI
+- Express.js
 - REST APIs
 - OpenAI API
-- Telegram Bot API
-
-### Frontend
-- React
-- TypeScript
-
-### Databases
+- Pydantic
 - PostgreSQL
 - SQLite
 
-### DevOps & Tools
+### Frontend
+
+- React
+- TypeScript
+
+### DevOps
+
 - Docker
 - Git
 - GitHub Actions
+- CI/CD
 - Linux
 - VPS Deployment
 
-### Automation
-- n8n
-- Make
+### AI & Automation
 
-## Featured Projects
+- OpenAI GPT-4.1
+- Tool Calling
+- Prompt Engineering
+- AI Workflow Automation
+- Telegram Bot API
+- Google OAuth APIs
 
-🔹 **[ExpensesAI](https://github.com/rory1337-prog/expense-ai-tg-bot)** 
+---
 
-AI-powered Telegram bot with receipt OCR, analytics, multilingual support, Docker deployment, and OpenAI-powered financial insights.
+# Featured Projects
 
-🔹 **[YouTube Channel Analytics](https://github.com/rory1337-prog/youtube-channel-analytics)**
+### 🤖 HelpU AI Assistant
 
-Dashboard for YouTube channel analytics with Google OAuth integration, YouTube Data API, charts, video metrics, and channel performance tracking.
+AI-powered booking assistant built with FastAPI and OpenAI Tool Calling.
 
-🔹 **[Crypto Telegram Reporter](https://github.com/rory1337-prog/crypto-telegram-reporter)**
+Features:
 
-Automated crypto reporting system that fetches market data, generates summaries, and delivers reports to Telegram.
+- Natural language understanding
+- Tool Calling
+- Conversation Memory
+- Booking workflow
+- Helper search
+- FastAPI REST API
+- Docker
+- GitHub Actions CI
+- Unit Testing
+
+**Tech:** Python • FastAPI • OpenAI • Docker • Pytest • GitHub Actions
+
+---
+
+### 💰 ExpensesAI
+
+Production-ready AI expense tracking assistant.
+
+Features:
+
+- Receipt OCR
+- AI expense categorization
+- Analytics
+- Reports
+- Telegram Bot
+- Docker deployment
+- OpenAI-powered financial insights
+
+**Tech:** Python • OpenAI • SQLite • Docker • Telegram Bot API
+
+---
+
+### 📊 YouTube Analytics Dashboard
+
+Analytics dashboard integrating Google OAuth and YouTube APIs.
+
+Features:
+
+- OAuth authentication
+- Channel statistics
+- Video analytics
+- Interactive charts
+- Creator metrics
+
+**Tech:** Node.js • Google OAuth • YouTube APIs • JavaScript
+
+---
 
 ## Current Focus
 
-- AI Automation Engineering
-- Backend Development (Python)
-- AI Integrations & LLM Applications
+- Backend Development
+- AI Engineering
+- LLM Applications
+- API Design
 - Workflow Automation
-- Scalable Software Systems
+- Production Software
+
+---
 
 ## Goals
 
-- Build production-grade AI products
-- Grow expertise in software engineering
-- Transition into a full-time AI/Python Engineering role
+- Build scalable AI products
+- Master backend architecture
+- Grow as a Software Engineer
+- Join a strong engineering team
+
+---
 
 ## GitHub Stats
 
