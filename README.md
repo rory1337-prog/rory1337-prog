@@ -126,9 +126,6 @@ Features:
 
 ---
 
-## GitHub Stats
+## GitHub Activity
 
-<p align="center">
-  <img width="54%" src="https://github-readme-stats.vercel.app/api?username=rory1337-prog&show_icons=true&theme=github_dark&cache_seconds=86400" />
-  <img width="41%" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rory1337-prog&layout=compact&theme=github_dark&cache_seconds=86400" />
-</p>
+Check out my repositories below for AI, backend, automation, and API integration projects.
